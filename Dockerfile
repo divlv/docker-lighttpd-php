@@ -13,6 +13,7 @@ RUN apk --update add \
     php-common \
     php-iconv \
     php-json \
+mysql-client \
 php-mysql \
     php-gd \
     php-curl \
